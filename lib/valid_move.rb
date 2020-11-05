@@ -8,5 +8,6 @@ def valid_move?(board, index)
    end
 end
 
-def position_taken?
+def position_taken?(board, index)
+  
 end
